@@ -1,4 +1,4 @@
-# vueshop-ina
+# vueshop
 
 ## Project setup
 ```
